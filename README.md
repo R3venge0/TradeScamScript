@@ -1,0 +1,2 @@
+# TradeScamScript
+description
